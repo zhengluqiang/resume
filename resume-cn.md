@@ -1,16 +1,16 @@
-# 郑禄强-Android开发工程师-简历
+# XXX-Android开发工程师-简历
 
 ## 个人信息
 
-- 联系电话: +86 15626232770
+- 联系电话: +86 xxxxxxxxxxx
 - 电子邮箱: [zhengluqiang@foxmail.com](zhengluqiang@foxmail.com)
-- 微信: 15626232770
-- 毕业院校：华南师范大学  |  电子信息科学与技术  |  本科
-- 工作年限：3年+
+- 微信: xxx
+- 毕业院校：xxx大学  |  xxx专业  |  本科
+- 工作年限：N年
 
 ## 专业技能
 
-- 3年多的 Android 开发经验，熟悉 Android SDK 及相关开发、调试、优化工具，有良好的编码习惯
+- X年多的 Android 开发经验，熟悉 Android SDK 及相关开发、调试、优化工具，有良好的编码习惯
 - 参与过千万级别用户量的中大型项目研发，有过创业公司从 0 起步独立开发一个项目的经历，见证了用户量疯狂增长的时期
 - 熟悉 Android、 Java 以及 网络加载框架 Okhttp、图片加载框架 Glide 、RxJava 等开源框架
 - 熟悉 Android 内存、流畅度、APK 瘦身等性能优化
